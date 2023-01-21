@@ -16,7 +16,7 @@ Git会自动创建一个master分支。
 
 3.将文件添加到仓库
 （1）git add
-将文件添加到暂存区
+将文件添加到暂存区（Stage）
 git add file
 （2）git commit 
 git commit -m 'message'
